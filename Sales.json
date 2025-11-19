@@ -1,0 +1,13 @@
+{
+  "SalesOrder": {
+    "OrderId": "1234",
+    "Customer": {
+      "Name": "John Doe",
+      "Email": "john@example.com"
+    },
+    "Items": [
+      {"Code": "A101", "Qty": 2},
+      {"Code": "B205", "Qty": 1}
+    ]
+  }
+}
