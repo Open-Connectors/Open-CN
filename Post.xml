@@ -1,0 +1,12 @@
+<Customers>
+  <Customer>
+    <ID>1</ID>
+    <Name>Alice</Name>
+    <City>New York</City>
+  </Customer>
+  <Customer>
+    <ID>2</ID>
+    <Name>Bob</Name>
+    <City>Chicago</City>
+  </Customer>
+</Customers>
